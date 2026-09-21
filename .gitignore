@@ -1,0 +1,12 @@
+# Local Netlify folder
+.netlify
+
+# Node / env
+node_modules/
+.env
+uploads/*
+!uploads/.gitkeep
+
+# OS
+.DS_Store
+**/.DS_Store
