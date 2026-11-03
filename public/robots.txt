@@ -3,4 +3,4 @@ Allow: /
 Disallow: /admin.html
 Disallow: /api/
 
-Sitemap: https://haesin-jungi-confirm.netlify.app/sitemap.xml
+Sitemap: https://haeshincrane.com/sitemap.xml
